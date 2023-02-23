@@ -1,0 +1,1 @@
+tail->node = head ->node;
